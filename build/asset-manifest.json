@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mono14/Portafolio_PowerPlatform/static/css/main.a92aa7ab.css",
+    "main.js": "/mono14/Portafolio_PowerPlatform/static/js/main.08edb008.js",
+    "static/js/453.10461f61.chunk.js": "/mono14/Portafolio_PowerPlatform/static/js/453.10461f61.chunk.js",
+    "index.html": "/mono14/Portafolio_PowerPlatform/index.html",
+    "main.a92aa7ab.css.map": "/mono14/Portafolio_PowerPlatform/static/css/main.a92aa7ab.css.map",
+    "main.08edb008.js.map": "/mono14/Portafolio_PowerPlatform/static/js/main.08edb008.js.map",
+    "453.10461f61.chunk.js.map": "/mono14/Portafolio_PowerPlatform/static/js/453.10461f61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a92aa7ab.css",
+    "static/js/main.08edb008.js"
+  ]
+}
