@@ -2,7 +2,7 @@ import { useEffect } from "react";
 
 export default function Stats() {
   // hook interno para animar los números
-  useEffect(() => {
+/*  useEffect(() => {
     const counters = document.querySelectorAll(".stat-number");
 
     counters.forEach((counter) => {
@@ -23,25 +23,25 @@ export default function Stats() {
 
       updateCounter();
     });
-  }, []); // se ejecuta una sola vez
+  }, []); se ejecuta una sola vez*/ 
 
   return (
     <section className="stats-section">
       <div className="stats-container">
         <div className="stat-card">
-          <span className="stat-number">25+</span>
+          <span className="stat-number">35</span>
           <span className="stat-label">Proyectos Completados</span>
         </div>
         <div className="stat-card">
-          <span className="stat-number">15+</span>
+          <span className="stat-number">40</span>
           <span className="stat-label">Proyectos Liderados</span>
         </div>
         <div className="stat-card">
-          <span className="stat-number">500+</span>
-          <span className="stat-label">Horas de Desarrollo</span>
+          <span className="stat-number">23,296</span>
+          <span className="stat-label">Horas Aproximadamente de Desarrollo</span>
         </div>
         <div className="stat-card">
-          <span className="stat-number">95%</span>
+          <span className="stat-number">80%</span>
           <span className="stat-label">Éxito en Proyectos</span>
         </div>
       </div>

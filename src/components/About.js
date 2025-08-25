@@ -4,7 +4,7 @@ export default function About() {
       <h2>Sobre mí</h2>
       <div className="about-content">
         <p>
-          Soy desarrollador especializado en Microsoft Power Platform con más de 3 años de experiencia creando soluciones innovadoras. He liderado múltiples proyectos empresariales, automatizando procesos complejos y mejorando la eficiencia organizacional a través de Power Apps, Power Automate y SharePoint.
+          Soy desarrollador especializado en Microsoft Power Platform con más de 5 años de experiencia creando soluciones innovadoras. He liderado múltiples proyectos empresariales, automatizando procesos complejos y mejorando la eficiencia organizacional a través de Power Apps, Power Automate y SharePoint.
         </p>
         <br />
         <p>
